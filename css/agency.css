@@ -9,7 +9,7 @@ body {
   color: white;
 }
 .text-primary {
-  color: #fed136;
+  color: #696969;
 }
 p {
   font-size: 14px;
@@ -99,8 +99,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #000000;
+  border-color: #000000;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -162,8 +162,8 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-default .navbar-toggle {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #616161;
+  border-color: #616161;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #fff;
